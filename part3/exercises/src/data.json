@@ -1,0 +1,33 @@
+[
+    {
+    "language": "Russia",
+    "country": "Russian",
+    "speakers": 260000000,
+    "visited": true
+},
+{
+    "language": "Czech Republic",
+    "country": "Czech",
+    "speakers": 10000000,
+    "visited": true
+},
+{
+    "language": "Poland",
+    "country": "Polish",
+    "speakers": 36000000,
+    "visited": false
+},
+{
+    "language": "Slovakia",
+    "country": "Slovak",
+    "speakers": 5000000,
+    "visited": true
+},
+{
+    "language": "Montenegro",
+    "country": "Serbo-Croation",
+    "speakers": 19000000,
+    "visited": false
+}
+]
+
